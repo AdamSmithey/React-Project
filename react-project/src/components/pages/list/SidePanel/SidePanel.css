@@ -1,0 +1,19 @@
+.side {
+  width: 45%;
+
+  border-right-style: solid;
+  border-right-color: rgb(219, 219, 219);
+}
+
+.display {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  width: 100%;
+}
+
+.description {
+  width: 100%;
+}
